@@ -1,0 +1,49 @@
+a{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
+body{
+    background-color: #333a5c;
+}
+table {
+    font-family:Cambria;
+    border-collapse: collapse;
+    width: 100%;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: rgb(0, 0, 0);
+    color: azure;
+    text-align: center;
+}
+th {
+    border: 1px solid #070707;
+    padding: 12px;
+    background-color: #4e2a00;
+    color: white;
+    padding: 10px;
+}
+td {
+    border:0.5 solid #111111;
+    padding: 10px;
+}
+h2 {
+    font-family:Georgia;
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.back-button {
+    font-family: Cambria;
+    padding: 8px 12px;
+    background-color: #4e2a00;
+    color: white;
+    text-decoration:double;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.back-button:hover {
+    background-color: #ffffff;
+    color: #4e2a00;
+
+}
